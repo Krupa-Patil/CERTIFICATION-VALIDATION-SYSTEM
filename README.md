@@ -25,7 +25,7 @@ A decentralized application (DApp) that prevents certificate forgery and ensures
 
 ## Setup and Installation
 1. Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Krupa-Patil/CERTIFICATION-VALIDATION-SYSTEM.git
 2. Install dependencies
 npm install
 3. Run the frontend
